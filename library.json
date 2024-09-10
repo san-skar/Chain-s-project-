@@ -1,0 +1,21 @@
+{
+    "maths": {
+        "available_count": "10",
+        "book_issued_to": [
+            "1"
+        ],
+        "total_count": "11"
+    },
+    "english": {
+        "available_count": "7",
+        "book_issued_to": [
+            "2"
+        ],
+        "total_count": "8"
+    },
+    "gk": {
+        "available_count": "3",
+        "book_issued_to": [],
+        "total_count": "3"
+    }
+}
